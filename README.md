@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **different frameworks**
 
-- 👨‍💻 All of my projects are available at [https://acronical.pages.dev/projects](https://acronical.pages.dev/projects)
+- 👨‍💻 All of my projects are available at [https://acronical.is-a.dev/projects](https://acronical.is-a.dev/projects)
 
 - 💬 Ask me about **discord.js**
 
