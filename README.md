@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **discord.js**
 
-- 📫 How to reach me **acronicalbusiness@gmail.com**
+- 📫 How to reach me **contact@acronical.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
